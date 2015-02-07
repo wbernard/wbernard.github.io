@@ -1,0 +1,29 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
+    <nav class="site-nav">
+      <div class="trigger">
+        {% for page in site.pages %}
+        {% if page.title %}
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+
+    <!-- Lang Switcher -->
+    {% assign posts=site.posts | where:"name", page.name | sort: 'path' %}
+	<nav class="lang-switch">
+    {% for post in posts %}
+	    <span class="lang-element">
+		<a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+	    </span>
+{% endfor %}
+      </nav>
+
+  </div>
+
+</header>

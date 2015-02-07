@@ -1,0 +1,30 @@
+# Site settings
+title: ideujo
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://walter.bernard.im" # the base hostname & protocol for your site
+
+defaults:
+  -
+    scope:
+      path: _posts/de
+    values:
+      layout: default
+      lang: de
+  -
+    scope:
+      path: _posts/it
+    values:
+      layout: default
+      lang: it
+  -
+    scope:
+      path: _posts/eo
+    values:
+      layout: default
+      lang: eo
+
+
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
