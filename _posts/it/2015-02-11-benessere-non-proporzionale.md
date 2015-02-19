@@ -1,7 +1,7 @@
 ---
 name: bonfarto
 layout: post
-title: "Il benessere non è proporzionale al PIL"
+title: "Il benessere non è proporzionale al prodotto interno lordo (PIL)"
 categories: jekyll update
 lang: it
 ---

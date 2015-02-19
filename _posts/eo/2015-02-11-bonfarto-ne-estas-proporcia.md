@@ -1,7 +1,7 @@
 ---
 name: bonfarto
 layout: post
-title: "Bonfarto ne estas proporcia al la MEP"
+title: "Bonfarto ne estas proporcia al la malneta enlanda produkto (MEP)"
 categories: jekyll update
 lang: eo
 ---
