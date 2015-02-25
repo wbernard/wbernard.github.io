@@ -1,7 +1,7 @@
 ---
 name: fiziklibro1
 layout: post
-title:  "Fiziklibro"
+title:  "Fiziklibro - lernolibro pri baza fiziko"
 categories: jekyll update
 lang: eo
 ---

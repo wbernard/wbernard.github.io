@@ -18,5 +18,5 @@ Die Verantwortlichen in der Stadt und im Bezirk sind jedoch ausschließlich auf 
 <i>[Machbarkeitstudie von 2004](../../dosieroj/Metisch.pdf): Sieht für die Anbindung von Dorf Tirol und Schenna ab Pulverlager eine kuppelbare Kabinenbahn vor.</i>
 
 <i>
-[Abgeänderte und erweiterte Sudie von 2006](../../dosieroj/Metisch.pdf):
+[Abgeänderte und erweiterte Sudie von 2006](../../dosieroj/Pseirertram.pdf):
 Untersucht die Möglichkeit einer Verbindung vom Bahnhof bis ins Passeiertal. Für die Verbindung zwischen dem Ex-Pulverlager und Dorf Tirol wird hier ein Shuttle-Bus vorgeschlagen, weil nur dadurch das langgestreckte Dorf vollständig erschlossen werden kann.</i>

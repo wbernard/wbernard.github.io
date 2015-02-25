@@ -15,5 +15,5 @@ Purtroppo i responsabili della cittá non  sono disposti a considerare seriament
 <i>[Studio del 2004](../../dosieroj/Metisch.pdf): Prevede un tram in tunnel fino all'ex-polveriera dietro il Monte Benedetto e da li due cabinovie una verso Tirolo e l'altra verso Scena.</i>
 
 <i>
-[Studio modificato e ampliato del 2006](../../dosieroj/Metisch.pdf):
+[Studio modificato e ampliato del 2006](../../dosieroj/Pseirertram.pdf):
 Prevede una linea tranviaria dalla stazione fino a San Leonard. Il collegamento con Scena viene realizzato con una funivia (meno costosa di una cabinovia) e Tirolo viene collegato con un shuttle-bus, perché in questo modo riesce a toccare tutti i punti più importanti del paese.</i>
