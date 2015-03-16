@@ -1,7 +1,7 @@
 ---
 name: grandauto
 layout: post
-title:  "Aŭtoj - ju pli grandaj des pli malefikaj"
+title:  "Aŭtoj - ju pli pezaj des pli malefikaj"
 categories: jekyll update
 lang: eo
 ---

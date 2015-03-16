@@ -1,7 +1,7 @@
 ---
 name: grandauto
 layout: post
-title:  "Autos - je größer desto ineffizienter "
+title:  "Autos - je schwerer desto ineffizienter "
 categories: jekyll update
 lang: de
 ---
