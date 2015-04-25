@@ -4,7 +4,7 @@ title: prie
 permalink: /prie/
 ---
 
-Mein Name ist Walter Bernard und ich lebe in [Meran][Meran]. Nach Abschluss des Maschinenbaustudiums habe ich acht Jahre lang als Planer von Seilförderanlagen gearbeitet. Danach habe ich ein Physikstudium absolviert und begonnen dieses Fach an an einer technischen Oberschule zu unterrichten. Diese Tätigkeit gefällt mir nach wie vor.
+Mein Name ist Walter Bernard und ich lebe in [Meran][Meran]. Nach Abschluss des Maschinenbaustudiums habe ich acht Jahre lang als Planer von Seilförderanlagen gearbeitet. Danach habe ich ein Physikstudium absolviert und begonnen dieses Fach an einer technischen Oberschule zu unterrichten. Diese Tätigkeit gefällt mir nach wie vor.
 
 Nützliche Informationen zu Esperanto findet ihr auf der Seite [Esperanto in Südtirol][Esperanto].
 
