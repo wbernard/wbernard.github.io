@@ -13,7 +13,7 @@ Ni konsciis, ke estis necese trovi rimedon kontrau la troa trafiko tra la vilaĝ
 
 Tial ni proponis konstruadon de nova aŭtovojo kun nur du koridoroj kaj samtempa konstruado de dua trako por la fervojo. Nia propono do estis: 
 
-###Du koridoroj – du trakoj### 
+###Du koridoroj – du trakoj
 
 La konstruado de nova aŭtoŝoseo kun nur du koridoroj, estus ebliginta forprenon de la automobiltrafiko de la vilaĝoj kaj samtempe, multe pli da vojaĝantoj estus uzintaj la modernigitan fervojon. 
 

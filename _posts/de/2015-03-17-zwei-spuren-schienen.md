@@ -11,7 +11,7 @@ In den späten achziger Jahren des vorigen Jahrhunderts habe ich zu jenen gehör
 
 Dabei wird vergessen, dass wir schon damals nicht hauptsächlich verhindern, sondern viel mehr ein besseres Projekt voranbringen wollten. Es war uns durchaus bewusst, dass es notwendig war, die Dörfer entlang der alten Straße vom Durchzugsverkehr zu befreien. Es war uns aber auch klar, dass der Bau einer vierspurigen Straße eine Zunahme des Autoverkehrs auf der Strecke zur Folge haben würde. Unsere Forderung lautete deshalb:
 
-###Zwei Spuren - zwei Schienen### 
+###Zwei Spuren - zwei Schienen 
 
 Durch den Bau einer zweispurigen Straße auf dem rechten Etschufer sollten die Dörfer entlastet werden, und durch die gleichzeitig durchgeführte Verdoppelung und Modernisierung der Eisenbahnlinie, sollte  immer mehr Verkehr von der Straße auf die Schiene gebracht werden.  
 
@@ -21,7 +21,7 @@ Das hat nun auch die Landesregierung erkannt, die den Ausbau der Bahnlinie Bozen
 
 Auch auf die Gefahr hin, wieder als "alternativer Verhinderer" zu gelten, würde ich der Landesregierung folgenden Vorschlag machen. 
 
-###Verzichten sie auf den bereits genehmigten Tunnel der Nord-Westumfahrung in Meran und realisieren sie mit dem gesparten Geld umgehend sowohl den Ausbau der Bahnlinie nach Bozen als auch die öffentlichen Verbindungen zwischen Meran, Dorf Tirol und Schenna.###
+***Verzichten sie auf den bereits genehmigten Tunnel der Nord-Westumfahrung in Meran und realisieren sie mit dem gesparten Geld umgehend sowohl den Ausbau der Bahnlinie nach Bozen als auch die öffentlichen Verbindungen zwischen Meran, Dorf Tirol und Schenna.***
 
 Das wäre ein wichtiger Beitrag zur Verbesserung der Verkehrssituation, welcher im Einklang mit einer nachhaltigen Entwicklung steht.
 
