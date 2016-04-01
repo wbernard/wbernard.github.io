@@ -4,9 +4,9 @@
     {% include head.html %}
 
   <body>
-  
+
  <header class="site-header">
- 
+
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
@@ -20,27 +20,27 @@
         {% endfor %}
       </div>
     </nav>
-    
+
     <!-- Lang Switcher -->
- 
+
     <nav class="lang-switch">
       <span class="lang-element">
-          <a href="index.html" >de  </a>
-        </span>   
-      <span class="lang-element">
-          <a href="eo.html" >eo  </a>
+          <a href="/" >de  </a>
         </span>
       <span class="lang-element">
-          <a href="it.html" >it  </a>
+          <a href="/eo" >eo  </a>
         </span>
-       
-    </nav> 
-     
+      <span class="lang-element">
+          <a href="/it" >it  </a>
+        </span>
+
+    </nav>
+
 
   </div>
 
-</header> 
- 
+</header>
+
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
