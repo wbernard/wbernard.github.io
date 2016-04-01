@@ -4,14 +4,15 @@ layout: post
 title:  "Meine Kandidatur für den Konvent"
 categories: jekyll update
 lang: de
----	
+---
+
 ![Bild](../../bildoj/sigmundskron.jpg)
 
-Eigentlich hatte ich gar nicht die Absicht mich für das [Forum der Hundert](http://www.konvent.bz.it/de/convention) zu bewerben, aber beim **open space** (wieso englisch?) in Meran habe ich am Informationstisch zufällig einen Freund getroffen der gemeint hat wir sollten uns anmelden, damit auch ein paar dabei sind die nicht unbedingt ins gleiche Horn blasen. Un dann bin ich ausgelost worden für dieses Forum der 100 und im Einladungsschreiben stand, man könne kandidieren für den [Konvent der 33](http://www.konvent.bz.it/de/content/die-gremien-des-autonomiekonvents) wo die eigentlichen Entscheidungen getroffen werden. Dazu müsse man nur die Anlage 2 ausfüllen und dabei folgendes angeben: 
+Eigentlich hatte ich gar nicht die Absicht mich für das [Forum der Hundert](http://www.konvent.bz.it/de/convention) zu bewerben, aber beim **open space** (wieso englisch?) in Meran habe ich am Informationstisch zufällig einen Freund getroffen der gemeint hat wir sollten uns anmelden, damit auch ein paar dabei sind die nicht unbedingt ins gleiche Horn blasen. Un dann bin ich ausgelost worden für dieses Forum der 100 und im Einladungsschreiben stand, man könne kandidieren für den [Konvent der 33](http://www.konvent.bz.it/de/content/die-gremien-des-autonomiekonvents) wo die eigentlichen Entscheidungen getroffen werden. Dazu müsse man nur die Anlage 2 ausfüllen und dabei folgendes angeben:
 
 - die Beweggründe für die Kandidatur
 
-- die wichtigsten Anliegen und konkreten Vorschläge zur Überarbeitung des Autonomiestatuts 
+- die wichtigsten Anliegen und konkreten Vorschläge zur Überarbeitung des Autonomiestatuts
 
 - die Erwartungen an die Zusammenarbeit zwischen dem Forum der 100 und den acht Bürgerinnen und Bürgern, welche in den Konvent der 33 entsandt werden.
 
