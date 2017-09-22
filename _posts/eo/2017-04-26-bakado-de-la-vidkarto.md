@@ -18,3 +18,5 @@ Mi decidis riski. Mi malmuntis la vidkarton, malmuntis la varmdisipilon kaj la p
 Sed antaŭ kelkaj tagoj dum la startigo de la komputilo komencis aperi strangaj strioj kaj kvadratoj sur la ekrano. Kelkfoje la komputilo eĉ ne startis kaj necesis restartigi ĝin plurfoje. Kelkaj el la instalitaj operaciumoj tute ne startis. Mi provis reinstali la praŝargan administrilon, sed la situacio ne pliboniĝis. 
 
 Ĉar mi estis leginta, ke kelkfoje 120°C ne sufiĉas por bone refunkciigi la vidkarton, mi supozis, ke la kialo de la nova malfunkiado estus denove la vidkarto. Mi do decidis ripeti la bakadon de la karto je la pli alta temperaturo de 160°C. Ĉifoje malferminte la fornon post dudek minutoj eliris malagrabla odoraĉo sed ŝajne la karto estis sendifekta. Mi remuntis ĝin post la malvarmiĝo kaj ..... ĝis nun la komputilo denove bone kaj regule funkcias.
+
+PS: Post du monatoj la vidkarto denove ĉesis funkcii kaj mi anstataŭis ĝin per nova karto :-(

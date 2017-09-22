@@ -18,3 +18,5 @@ Ich beschloss das Risiko einzugehen und die Grafikkarte (ohne Kühlkörper und P
 Vor ein paar Tagen sind jedoch während des Startens auf dem Bildschirm seltsame Streifen und Quadrate aufgetaucht. Häufig ist er auch überhaupt nicht gestartet und man musste es mehrmals versuchen. Einige der installierten Betriebssysteme sind überhaupt nicht mehr gestartet.
 
 Nachdem ich gelesen hatte, dass es manchmal nicht ausreicht die Grafikkarte auf 120°C zu erhitzen um sie wieder voll funktionstüchtig zu machen, beschloss ich sie nun auf 160°C zu backen. Diesmal schlug mir beim Öffnen des Backrohrs nach 20 Minuten ein ziemlich unangenehmer Geruch entgegen, aber die Karte war noch ganz. Nach dem Abkühlen habe ich sie wieder eingebaut und ..... bis jetzt funktioniert der Computer wieder.
+
+PS: Nach zwei Monaten hat die Grafikkarte wieder den Geist aufgegeben und ich habe sie durch eine neue ersetzt :-(
