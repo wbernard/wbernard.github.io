@@ -8,7 +8,7 @@ lang: it
 ![Bild](../../bildoj/boku-haram-tank.jpg)
 Nella seconda metà degli anni settanta lavoravo come progettista presso una fabbrica di funivie a Vipiteno. Benchè il lavoro fosse molto interessante, desideravo un posto di lavoro più vicino a Merano. Perciò quando in un giornale vidi un annuncio nel quale la ditta IVECO di Bolzano offriva un posto per un ingegenere meccanico, ho presentato domanda di assunzione. Sono stato invitato a fare dei test relativi alle mie capacità tecniche, ho avuto un colloquio con l'ingegnere capo e sono stato accompagnato a visitare i reparti di produzione. Allora mi sono reso conto, che la fabbrica di Bolzano non produceva camion, come avevo pensato, bensì carri blindati destinati agli eserciti. Questo non mi è piaciuto.  Dopo circa una settimana l'ingegnere capo mi ha telefonato, dicendomi che l'azienda era disposta ad assumermi come ingegnere progettista. Ma gli ho detto, che il posto non mi interessava più, perchè non volevo partecipare alla produzione di armi. Infatti già allora ero convinto, che : 
 
-###Anche chi produce le armi é colpevole, quando queste uccidono### 
+<b>Anche chi produce le armi é colpevole, quando queste uccidono</b> 
 
 ![Bild](../../bildoj/armileksporto.png) <small>I venti più importanti paesi esportatori di armi</small> 
 

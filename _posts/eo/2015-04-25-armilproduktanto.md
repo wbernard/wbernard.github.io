@@ -9,7 +9,7 @@ lang: eo
 
 Je la fino de la 70aj jaroj mi estis juna inĝeniero kaj laboris en fabrikejo por kablovojoj en Vipiteno, urbo kiu sufiĉe malproksimas de mia hejmurbo Merano. Mi deziris laboron en loko pli proksima kaj kiam mi vidis en ĵurnalo, ke la firmao IVECO de Bolzano serĉis inĝenieron, mi tuj prezentis mian aspiron al la posteno.  Mi estis invitita fari eksamenon pri miaj teknikaj konoj, mi havis interparolon kun la ĉefinĝeniero kaj ili montris al mi la produktejon. Tiam mi rimarkis, ke la ĉefa produkto de la fabrikejo de Bolzano ne estis kamionoj, kiel mi antaŭe pensis, sed kirasitaj veturiloj por la armeoj. Tio ne plaĉis al mi. Post proksimume unu semajno la ĉefinĝeniero kontaktigis min telefone dirante, ke ili estus pretaj dungi min kiel projektinĝeniero. Sed mi diris al li, ke mi ne plu aspiris al la posteno, ĉar mi ne volis partopreni al la produktado de armiloj. Fakte mi jam tiam estis konvinkita, ke: 
 
-###Kiu produktas la armilojn, kunkulpas kiam ili mortigas### 
+<b>Kiu produktas la armilojn, kunkulpas kiam ili mortigas</b> 
 
 ![Bild](../../bildoj/armileksporto.png) 
 <small>La dudek plej gravaj armileksportantaj landoj</small>
