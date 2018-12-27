@@ -1,7 +1,7 @@
 ---
 name: parko
 layout: post
-title:  "Il nostro parco"
+title: "Il nostro parco"
 categories: jekyll update
 lang: it
 ---
