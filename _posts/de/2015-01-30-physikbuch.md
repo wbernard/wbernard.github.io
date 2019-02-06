@@ -29,6 +29,9 @@ Der zweite Band enthält die Kapitel:
 4. Elektromagnetische Induktion
 
 
-[Erster Band](https://esperantosudtirolo.files.wordpress.com/2013/07/1_fiziklibro.pdf) zum Herunterladen als pdf
+[Erster Band in Esperanto](https://esperantosudtirolo.files.wordpress.com/2013/07/1_fiziklibro.pdf) zum Herunterladen als pdf <br/>
+[Zweiter Band in Esperanto](https://esperantosudtirolo.files.wordpress.com/2013/11/2_fiziklibro.pdf) zum Herunterladen als pdf
 
-[Zweiter Band](https://esperantosudtirolo.files.wordpress.com/2013/11/2_fiziklibro.pdf) zum Herunterladen als pdf
+Nachtrag: Im Schuljahr 2017/18 habe ich beide Bände ins Deutsche übersetzt. <br/>
+[Erster Band in Deutsch](../../dosieroj/physikbuch1.pdf) zum Herunterladen als pdf <br/>
+[Zweiter Band in Deutsch](../../dosieroj/Physikbuch2.pdf) zum Herunterladen als pdf

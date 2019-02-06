@@ -15,4 +15,4 @@ Se tra la quantità di beni a disposizione e il benessere delle persone ci fosse
 
 Dalla mia limitata esperienza personale segue, che per un adeguato benessere basta un terzo dei beni che abbiamo a disposizione oggi. Gli altri due terzi li potremmo mettere a disposizione di coloro, che hanno molto meno di quanto avevamo noi nel 1960.  
 
-Questo renderebbe possibile un futuro, nel quale tutti possono stare bene. E nessuno deve imbarcarsi, per cercare la fortuna dall'altra parte del mediterraneo.
+Questo renderebbe possibile un futuro, nel quale tutti possono stare bene. E nessuno dovrebbe imbarcarsi, per cercare la fortuna dall'altra parte del mediterraneo.
