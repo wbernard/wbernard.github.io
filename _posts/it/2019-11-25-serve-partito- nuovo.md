@@ -1,5 +1,5 @@
 ---
-name: serve-partito-nuovo
+name: necesas-nova-partio
 layout: post
 title:  "Merano ha bisogno di un nuovo partito?"
 categories: jekyll update
