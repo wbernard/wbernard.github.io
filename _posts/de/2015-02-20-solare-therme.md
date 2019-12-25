@@ -21,9 +21,9 @@ Im Vorschlag waren insgesamt vier Solar-Kollektorfelder vorgesehen.
 
 4. Warmwasserkollektoren (800 m²) auf dem Dach des Kurhotels für die Brauchwassererwärmung und für solare Kühlung.
 
-Die vorgeschlagenen Anlagen hätten es ermöglicht, 30% des Energiebedarfs der Therme mit Solarenergie zu decken. Dabei hätten die erforderlichen Mehrkosten von 2 Milionen Euro lediglich etwa 2% der Bausumme betragen.
+Die vorgeschlagenen Anlagen hätten es ermöglicht, 30% des Energiebedarfs der Therme mit Solarenergie zu decken. Dabei hätten die erforderlichen Mehrkosten von 2 Millionen Euro lediglich etwa 2% der Bausumme betragen.
 
-Im Jahr 2014 betrugen die [Energiekosten der Therme](http://ricerca.gelocal.it/altoadige/archivio/altoadige/2013/11/01/NZ_32_02.html) ca. 1,2 Milionen Euro. Das heißt, dass sich die Investitonskosten für die vorgeschlagenen Solaranlagen in 5 bis 6 Jahren amortisiert hätten und die Therme nun schon seit Jahren etwa 400.000 Euro pro Jahr an Betriebskosten sparen könnte.
+Im Jahr 2014 betrugen die [Energiekosten der Therme](http://ricerca.gelocal.it/altoadige/archivio/altoadige/2013/11/01/NZ_32_02.html) ca. 1,2 Millionen Euro. Das heißt, dass sich die Investitonskosten für die vorgeschlagenen Solaranlagen in 5 bis 6 Jahren amortisiert hätten und die Therme nun schon seit Jahren etwa 400.000 Euro pro Jahr an Betriebskosten sparen könnte.
 
 Leider haben weder unsere Verwalter noch die mit der Planung beauftragten Techniker meine Vorschläge wirklich ernst genommen. Schade.
 
