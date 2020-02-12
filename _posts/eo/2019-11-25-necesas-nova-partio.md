@@ -1,7 +1,7 @@
 ---
 name: necesas-nova-partio
 layout: post
-title:  "Ĉu necesas nova partio por Merano"
+title:  "Ĉu necesas nova partio por Merano?"
 categories: jekyll update
 lang: eo
 ---
