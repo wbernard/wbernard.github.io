@@ -5,7 +5,8 @@ title:  "Theater nicht nur für Kinder"
 categories: jekyll update
 lang: de
 ---
-![Szenen aus dem Stück "Mugnog Kinder"](../../bildoj/mugnogkinder.png)
+![Szenen aus dem Stück "Mugnog Kinder"](../../bildoj/mugnogkinder.png)<small>Szenen aus dem Stück "Mugnog Kinder"<small>
+
 In den 1980-er Jahren habe ich in der Laienspielgruppe „Theater in der Klemme“ als Schauspieler, Bühnenbildner und Beleuchter mitgearbeitet. Regisseur und  Motor der Gruppe war Franco Marini, selbst ein talentierter Schauspieler und vielseitiger Theatermacher. 
 
 Ziel der Gruppe war es, nicht nur die Zuschauer zu unterhalten, sondern auch die gesellschaftliche Realität und deren Probleme aufzuzeigen. Das galt nicht nur für das Theater für Erwachsene, sondern auch für das Kindertheater. Die Kinderstücke die damals von den offiziellen Theaterorganisatoren angeboten wurden, beschränkten sich vorwiegend auf die Märchen der Gebrüder Grimm oder von H.C. Andersen.
