@@ -34,4 +34,4 @@ Der zweite Band enthält die Kapitel:
 
 Nachtrag: Im Schuljahr 2017/18 habe ich beide Bände ins Deutsche übersetzt. <br/>
 [Erster Band in Deutsch](../../dosieroj/physikbuch1.pdf) zum Herunterladen als pdf <br/>
-[Zweiter Band in Deutsch](../../dosieroj/Physikbuch2.pdf) zum Herunterladen als pdf
+[Zweiter Band in Deutsch](../../dosieroj/physikbuch2.pdf) zum Herunterladen als pdf
