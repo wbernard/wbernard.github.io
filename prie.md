@@ -24,3 +24,15 @@ Informazioni utili relative all'esperanto si trovano sulla pagina [Esperanto in 
 [Meran]: https://de.wikipedia.org/wiki/Meran
 [Merano]: https://it.wikipedia.org/wiki/Merano
 [Meraneo]: https://eo.wikipedia.org/wiki/Merano
+
+<div class="black-border">
+    <img src="../../bildoj/walter.webp">
+    <div class="">
+        <small>in memoriam</small>
+        <h2>Walter Bernard</h2>
+        <p>1950 – 2026</p>
+        <p>Viaj ideoj persistas.</p>
+        <p>Deine Ideen bleiben.</p>
+        <p>Le tue idee persistono.</p>
+    </div>
+</div>

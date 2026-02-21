@@ -145,3 +145,50 @@ body {
 .site-footer {
   margin: 3em 0 2em;
 }
+
+/* PRIE */
+
+.black-border {
+  border: 6px solid black;
+  padding: 2rem;
+  margin: 5rem 0 3rem;
+}
+
+.black-border img {
+  display: block;
+  width: 100%;
+  min-height: 200px;
+  max-height: 260px;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.black-border small {
+  font-size: 1em;
+  margin-bottom: 0;
+  font-variant: small-caps;
+}
+
+.black-border h2 {
+  margin: 0.3em 0 0;
+}
+
+.black-border h2+p {
+  margin: 0.5rem 0 2rem;
+}
+
+.black-border p:last-child {
+  margin-bottom: 0.5em ;
+}
+
+@media (min-width: 550px) {
+  .black-border {
+    display: flex;
+    gap: 2.5rem;
+  }
+  .black-border img {
+    max-width: 50%;
+    max-height: none;
+    margin: 0;
+  }
+}
